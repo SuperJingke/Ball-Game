@@ -11,4 +11,4 @@ Try it again! Play it with your friends and have fun!
 
 [Moving bees](https://snack.expo.dev/@veladaraston/73bb2b).   
 
-[Bouncing Ball Game V3](https://snack.expo.dev/@veladaraston/bouncingballprojectv3).  
+[Bouncing Ball Game V3](https://snack.expo.dev/@veladaraston/ball-game-final).  
